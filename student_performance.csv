@@ -1,0 +1,16 @@
+Student_ID,Name,Python,SQL,HTML,CSS,JavaScript,Attendance,Total,Average,Grade,Result
+501,Jaya sree,85,78,88,90,92,82,433,86.6,A,Pass
+502,Priya,72,80,70,75,85,78,382,76.4,B,Pass
+503,Priyanka,92,92,94,88,98,96,464,92.8,A+,Pass
+504,Pavan Kumar,60,65,62,58,75,70,320,64.0,C,Pass
+505,Vijay,88,85,89,91,94,90,447,89.4,A,Pass
+506,Krishna,98,88,99,88,88,86,461,92.2,A+,Pass
+507,Harshini,78,99,87,97,96,88,457,91.4,A+,Pass
+508,Suneetha,94,98,78,95,85,79,450,90.0,A+,Pass
+509,Balaji,78,89,97,83,74,77,421,84.2,A,Pass
+510,Sarika,95,87,95,78,86,98,441,88.2,A,Pass
+511,Diana,65,86,76,73,56,75,356,71.2,B,Pass
+512,Radha,86,97,87,55,77,64,402,80.4,A,Pass
+513,Sha,45,76,58,73,83,34,335,67.0,C,Pass
+514,Jack Daneil,87,55,97,81,71,54,391,78.2,B,Pass
+515,Jas,30,35,76,39,59,45,239,47.8,E,Fail
